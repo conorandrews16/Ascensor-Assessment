@@ -1,0 +1,22 @@
+* {font-family: 'Quicksand', sans-serif;}
+
+h1.entry-title {
+    display: none;
+}
+    
+nav.navbar.navbar-expand-md.navbar-dark.bg-primary {
+    background-color: #28272d!important;
+}
+
+#wrapper-footer-full, #wrapper-static-hero {
+    background-color: #28272d;
+    color: #fff;
+}
+
+.site-info-left {
+    float: left;
+}
+
+.site-info-right {
+    float: right;
+}
